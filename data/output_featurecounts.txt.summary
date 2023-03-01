@@ -1,0 +1,15 @@
+Status	SRR941816.bam	SRR941817.bam	SRR941818.bam	SRR941819.bam
+Assigned	7283573	7983157	1401111	4972361
+Unassigned_Unmapped	512971	505207	65072	229677
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	1330252	1682079	312460	1202450
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	611034	626135	102694	380392
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	35996	36110	4204	15389
